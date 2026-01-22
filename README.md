@@ -1,5 +1,10 @@
 # CMPUT 301 : Lab 3 Participation Exercise
 
+## Student Details
+
+- **Full Name:** `Jessu Doroy`
+- **CCID:** `doroy`
+
 ## References and Resources
 
 N/A
